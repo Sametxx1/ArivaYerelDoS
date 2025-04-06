@@ -1,1 +1,3 @@
 # ArivaYerelDoS
+
+Eğitim Amaçlıdır 
